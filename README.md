@@ -1,2 +1,3 @@
 # Web-full-HTML-CSS-Flexbox-CSSGrid
-https://github.com/Feermoya/Web-full-HTML-CSS-Flexbox-CSSGrid/blob/master/screenshot.png?raw=true
+![Aquí la descripción de la imagen por si no carga](https://github.com/Feermoya/Web-full-HTML-CSS-Flexbox-CSSGrid/blob/master/screenshot.png)
+
